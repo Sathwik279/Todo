@@ -1,0 +1,9 @@
+Then end goal is to divide our app into ui ,business lgoic and data
+businesslayer mean application logic  viewmodel
+data means datbase room db or api
+
+
+
+//dependency injection means giving its objects its instance variables
+
+//
